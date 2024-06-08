@@ -1,5 +1,3 @@
-Here is the properly indented version of your code:
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -179,4 +177,3 @@ int main() {
         }
     }
 }
-```
